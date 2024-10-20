@@ -15,3 +15,4 @@ A simple graphical user interface (GUI) implementation of the classic Snake and 
 To run this project, you need to have Python installed on your machine along with the Tkinter library. Tkinter is included with most Python installations.
 
 - **Python Version:** 3.12.3
+- **tkinter library**

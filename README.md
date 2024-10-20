@@ -5,7 +5,6 @@ A simple graphical user interface (GUI) implementation of the classic Snake and 
 ## Features
 
 - Two-player mode
-- Dice rolling animation
 - Displays player positions
 - Handles game rules (snakes and ladders)
 - Reset game functionality
@@ -16,3 +15,4 @@ To run this project, you need to have Python installed on your machine along wit
 
 - **Python Version:** 3.12.3
 - **tkinter library**
+- **Random library**
